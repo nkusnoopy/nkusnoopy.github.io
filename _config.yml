@@ -1,0 +1,42 @@
+# Site settings
+name: nkusnoopy的主页
+email: snoopy0403@126.com
+author: nkusnoopy
+url: 
+resume_site: 
+github: https://github.com/nkusnoopy/
+baseurl: ""
+description: 青春是用来拼命的！
+meta_description: nkusnoopy的个人博客
+motto: 青春是用来拼命的！
+banner: 学而不思则罔，思而不学则殆。
+
+
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page:num"
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: nkusnoopy
+highlighter: Pygments
+
+# Build settings
+markdown: kramdown
+
+FB:
+  comments :
+    provider : duoshuo
+    duoshuo:
+        short_name : luoyan35714
+    disqus :
+        short_name : freudkang
+    # facebook :
+    #   appid : 123
+    #   num_posts: 5
+    #   width: 580
+    #   colorscheme: light

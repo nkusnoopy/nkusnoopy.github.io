@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>青春是用来拼命的！</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 09 Feb 2017 17:55:05 +0800</pubDate>
+    <lastBuildDate>Thu, 09 Feb 2017 17:55:05 +0800</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>深入浅出ibatis</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/source/ibatis/Slide01.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide02.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide03.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide04.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide05.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide06.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide07.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide08.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide09.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide10.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide11.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide12.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide13.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide14.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide15.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide16.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide17.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide18.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide19.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide20.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide21.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide22.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide23.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide24.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide25.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide26.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide27.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide28.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide29.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide30.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide31.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide32.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide33.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide34.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide35.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide36.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide37.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide38.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide39.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide40.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide41.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide42.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide43.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide44.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide45.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/ibatis/Slide46.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 08 Feb 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/02/08/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAibatis/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/02/08/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAibatis/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>连接池</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/source/pool/Slide01.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide02.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide03.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide04.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide05.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide06.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide07.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide08.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide09.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide10.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide11.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide12.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide13.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide14.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide15.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide16.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide17.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide18.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide19.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide20.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/pool/Slide21.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Feb 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/02/07/%E8%BF%9E%E6%8E%A5%E6%B1%A0/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/02/07/%E8%BF%9E%E6%8E%A5%E6%B1%A0/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Java虚拟机</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/source/JVM/Slide01.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide02.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide03.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide04.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide05.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide06.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide07.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide08.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide09.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide10.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide11.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide12.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide13.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide14.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide15.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide16.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide17.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide18.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide19.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide20.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/JVM/Slide21.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Feb 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/02/06/java%E8%99%9A%E6%8B%9F%E6%9C%BA/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/02/06/java%E8%99%9A%E6%8B%9F%E6%9C%BA/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>购物车业务</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/source/shopping/Slide01.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide02.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide03.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide04.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide05.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide06.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide07.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide08.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide09.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide10.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide11.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide12.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide13.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide14.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide15.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide16.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide17.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide18.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide19.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide20.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide21.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide22.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide23.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide24.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide25.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide26.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide27.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide28.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide29.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide30.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide31.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide32.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide33.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide34.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide35.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide36.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide37.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide38.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide39.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide40.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping/Slide41.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 05 Feb 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/02/05/%E8%B4%AD%E7%89%A9%E8%BD%A6%E4%B8%9A%E5%8A%A1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/02/05/%E8%B4%AD%E7%89%A9%E8%BD%A6%E4%B8%9A%E5%8A%A1/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>购物车设计模式</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/source/shopping-mode/Slide01.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide02.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide03.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide04.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide05.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide06.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide07.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide08.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide09.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide10.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide11.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide12.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide13.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide14.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide15.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide16.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide17.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide18.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide19.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide20.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide21.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide22.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide23.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide24.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide25.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide26.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide27.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide28.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide29.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide30.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide31.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide32.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide33.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide34.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide35.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide36.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide37.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide38.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide39.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide40.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide41.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide42.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide43.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide44.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide45.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide46.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide47.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide48.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide49.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide50.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide51.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide52.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide53.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide54.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide55.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide56.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide57.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide58.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide59.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide60.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide61.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide62.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide63.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide64.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide65.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide66.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide67.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide68.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide69.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide70.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide71.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide72.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide73.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide74.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide75.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide76.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/source/shopping-mode/Slide77.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Feb 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/02/01/%E8%B4%AD%E7%89%A9%E8%BD%A6%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/02/01/%E8%B4%AD%E7%89%A9%E8%BD%A6%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
